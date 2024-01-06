@@ -1,0 +1,127 @@
+.css-selector {
+    background: linear-gradient(270deg, #ffffff, #cdb4ff);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 24s ease infinite;
+    -moz-animation: AnimationName 24s ease infinite;
+    animation: AnimationName 24s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+body{
+    height: auto;
+}
+.div1{
+    height: 90vh;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+#img1{
+    height: 500px;
+    border-radius: 40px;
+}
+.p1{
+    text-align: center;
+    width: 600px;
+}
+.h1{
+    text-align: center;
+    width: 400px;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#yurMom{
+    display: flex;
+    align-items: center;
+    margin-right: 100px;
+}
+#GGhk{
+    border: none !important;
+    background-color: #cdb4ff;
+    padding: 150px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.header-css-selector {
+    background: linear-gradient(270deg, #cdb4ff75, #ffffff75);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 24s ease infinite;
+    -moz-animation: AnimationName 24s ease infinite;
+    animation: AnimationName 24s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+}
+.cDiv1{
+    padding: 50;
+    height: auto;
+    margin: 50px;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 150px;
+}
+#X1{
+    height: 600px;
+    border-radius: 70px;
+}
+#X2{
+    text-align: center;
+    width: 500px;
+}
+#Celestial-Autumn-Sweater{
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    width: 600px;
+}
+#X3{
+    background-color: rgba(124, 92, 43, 0.733) !important;
+    border: none;
+    color: white;
+}
+#R1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 50px;
+    width: fit-content;
+}
+#price{
+    margin-bottom: 25px;
+}
