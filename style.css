@@ -62,7 +62,7 @@ body{
     border-bottom-left-radius: 30px;
 }
 .header-css-selector {
-    background: linear-gradient(270deg, #cdb4ff75, #ffffff75);
+    background: linear-gradient(270deg, #d9c6ff2f, #ffffff2f);
     background-size: 400% 400%;
 
     -webkit-animation: AnimationName 24s ease infinite;
@@ -87,7 +87,6 @@ body{
 }
 .cDiv1{
     padding: 50;
-    height: auto;
     margin: 50px;
     margin-bottom: 150px;
     display: flex;
